@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&display=swap');
+body {
+    background-color: #A1CAE8;
+    font-family:"IM Fell English";
+}
+h1 {
+    color: #17415E;
+    font-size: 3rem;
+    text-align: center;
+}
+
+h2 {
+    font-size: 2rem;
+    text-align: center;
+    color: #3690CF;
+}
+
+h3 {
+    font-size: 1.9rem;
+    color: #0E2739;
+}
+
+.rate {
+    color: #0E2739;
+}
+
+p {
+    color: #0E2739;
+    font-size: 1.3rem;
+    text-align: left;
+    line-height: 1.4em;
+    max-width: 50em;
+
+}
+
+ul {
+    line-height: 1.8em;
+    padding-left: 2rem;
+    color: black;
+    font-size: 1.1rem;
+}
+
+img {
+    border: 2px solid black;
+    border-radius: 20px;
+    display: block;
+    margin: 15px auto;
+    max-width: 500px;
+}
+
+.float-right {
+    float: right;
+    margin: 0 0 1em 1.5rem;
+}
+
+figcaption {
+    text-align: center;
+}
+
+footer {
+    background-color: whitesmoke;
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 20px 100px 20px 60px;
+    text-align: center;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.im-fell-english-regular {
+    font-family: "IM Fell English", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.im-fell-english-regular-italic {
+    font-family: "IM Fell English", serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.wrapper {
+
+    display: flex;
+
+}
+
+.wrapper div {
+
+    flex: 1;
+
+}
